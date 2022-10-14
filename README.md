@@ -1,4 +1,6 @@
 # MIMIC-IV
+Zet de gepreproceste data in een map "/data/". Deze staat ook in de .gitignore, dus hij zal niet meegepusht worden.
+
 ## Preprocessing
 Nog onder constructie ^_^
 
