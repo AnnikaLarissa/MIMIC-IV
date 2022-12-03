@@ -1,0 +1,9 @@
+,ethnicity,max_depth,n_estimators,accuracy
+1,unknown,6.0,50.0,1.0
+2,white,6.0,100.0,1.0
+3,other,6.0,150.0,1.0
+1,asian,6.0,50.0,1.0
+4,hispanic_latino,6.0,200.0,1.0
+1,black_african_american,6.0,50.0,1.0
+2,unable_to_obtain,6.0,100.0,1.0
+0,american_indian_alaska_native,6.0,10.0,1.0
